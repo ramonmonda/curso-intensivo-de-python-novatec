@@ -18,7 +18,7 @@
 ## Como Utilizar este Repositório
 
 <br>
-1. **Clone o repositório:**
-
-   ```bash
-   git clone https://github.com/ramonmonda/curso-intensivo-de-python-novatec.git
+<p>
+    Clone o repositório: <code>git clone https://github.com/ramonmonda/curso-intensivo-de-python-novatec.git</code>
+</p>
+<br>
