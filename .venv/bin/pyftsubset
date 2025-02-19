@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/home/byte/Documents/Study/3 - Colleges/2 - Anhanguera/1 - Ciência da Computação/1 - Books/01 - Linguagens de Programação/Python/1 - Curso Intensivo de Python (Uma introdução prática e baseada em projetos à programação)/.venv/bin/python3" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from fontTools.subset import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
