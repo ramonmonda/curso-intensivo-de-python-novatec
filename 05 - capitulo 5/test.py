@@ -26,8 +26,25 @@
 # ----------------------------------------------
 
 
+# Usando múltiplas listas - página 127
+# ----------------------------------------------
 
+# coberturas_possiveis = [
+#     "cogumelos", "azeitona", "pimenta verde",
+#     "pepperoni","abacaxi", "queijo extra"
+# ]
 
+# coberturas_solicitadas = ["cogumelos", "batata frita", "queijo extra"]
+
+# for cobertura in coberturas_solicitadas:
+#     if cobertura in coberturas_possiveis:
+#         print(f"Adicionado {cobertura}.")
+#     else:
+#         print(f"Desculpe, nós não temos {cobertura}.")
+
+# print("\nSua pizza está pronta!")
+
+# ----------------------------------------------
 
 
 
